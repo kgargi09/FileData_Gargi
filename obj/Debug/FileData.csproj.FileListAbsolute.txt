@@ -1,0 +1,11 @@
+C:\Users\kumarig\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\FileData.exe.config
+C:\Users\kumarig\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\FileData.exe
+C:\Users\kumarig\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\FileData.pdb
+C:\Users\kumarig\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\ThirdPartyTools.dll
+C:\Users\kumarig\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\ThirdPartyTools.pdb
+C:\Users\kumarig\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\ThirdPartyTools.dll.config
+C:\Users\kumarig\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.csprojAssemblyReference.cache
+C:\Users\kumarig\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.csproj.CoreCompileInputs.cache
+C:\Users\kumarig\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.csproj.CopyComplete
+C:\Users\kumarig\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.exe
+C:\Users\kumarig\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.pdb
