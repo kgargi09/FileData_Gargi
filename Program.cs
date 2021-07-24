@@ -9,6 +9,8 @@ namespace FileData
     {
         public static void Main(string[] args)
         {
+            try
+            { 
             string path = args[1];
             Console.WriteLine("trying path: " + path);
 
@@ -16,6 +18,12 @@ namespace FileData
             Console.WriteLine(fd.Version(path));
             Console.WriteLine(fd.Size(path));
             Console.Read();
+         }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.Read();
+            }
         }
     }
 }
